@@ -1,1 +1,2 @@
-Digital Clock using Tkinter in Python
+# **Digital Clock** 
+#### GUI | Tkinter | Python
