@@ -1,2 +1,3 @@
-# **Digital Clock** 
-### Python  |  GUI  |  Tkinter
+# **Digital Clock**
+
+## Python  |  GUI  |  Tkinter
